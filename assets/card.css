@@ -101,7 +101,6 @@ body .bottom_bar{
 
 .id_image_data{
     position: relative;
-    height: 70%;
 }
 
 .id_image{
@@ -242,7 +241,6 @@ body .bottom_bar{
     width: 95%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 3.8%;
 }
 
 .back_text{
