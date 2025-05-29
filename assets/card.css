@@ -69,8 +69,6 @@ body .bottom_bar{
     top: 50.5%;
     left: 7.5%;
     width: 18.9%;
-    width: 10%;
-    height: auto;
 }
 
 .eagle_text{
@@ -78,7 +76,6 @@ body .bottom_bar{
     top: 68.1%;
     left: 18%;
     width: 20%;
-    font-size: 20px;
 }
 
 .eagle_video{
@@ -86,8 +83,6 @@ body .bottom_bar{
     top: 66.1%;
     left: 7.7%;
     width: 8.8%;
-    height: 15%;
-    width: auto;
 }
 
 
